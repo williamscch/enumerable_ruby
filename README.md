@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable
 
-> Description the project.
-
+> This is an educational project to create a class MyList and a module MyEnumerable using [Ruby](https://www.ruby-lang.org/en/) programming language. The module MyEnumerable will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 ## Built With
 
-- [x] Ruby
-- [x] Linters: [Rubocop](https://rubocop.org/)
-- [x] Visual Studio Code
+- [x] Programming Language: Ruby
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
 ## Getting Started
 
@@ -30,43 +29,32 @@ Likewise for Ruby installation.
 $ ruby --version && irb
 ```
 
+### Setup
+
+Clone the repository using the GitHub link provided below.
+
 ### Install
 
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone git@github.com:williamscch/enumerable_ruby.git
+$ git clone git@github.com:mavericks-db/my-enumerable.git
+```
 
-## Authors
+### Usage
 
-👤 **Williams Colmenares**
-- GitHub: [@williamscch](https://github.com/williamscch)
-- Twitter: [@wdavidcch](https://twitter.com/wdavidcch)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/
-
-👤 **Vitor Guedes Madeira**
-- GitHub: [@vitorguedesmadeira](https://github.com/VitorGuedesMadeira)
-- Twitter: [@CDahguedes](https://twitter.com/CDahguedes)
-- LinkedIn: (https://www.linkedin.com/in/vitor-guedes-madeira/)
+Kindly modify the files as needed.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/nimplay/enumerable/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENCE) licensed.
